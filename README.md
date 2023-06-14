@@ -1,4 +1,4 @@
-# IPL-Win-Probabilty-Prediction
+# IPL-Win-Probability-Prediction
 
 ### Introduction
 A webapp using Python, Machine learning algorithm  and Streamlit for Predicting the winning probability of each team.
