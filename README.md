@@ -3,6 +3,8 @@
 ### Introduction
 A webapp using Python, Machine learning algorithm  and Streamlit for Predicting the winning probability of each team.
 
+https://github.com/anand-tiwari1/IPL-Win-Probabilty-Prediction/assets/88627473/46f445c5-131a-4e43-801b-af51eb014eb5
+
 ### Description of Data needed
 - Name of the Batting Team in second inning
 - Name of the Bowling Team in the second inning
